@@ -1,0 +1,103 @@
+header{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#encabezado{
+    margin-left:40px;
+}
+
+#rowFotos{
+    padding-top:40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-right: 0px;
+}
+
+#fotop{
+    border-radius: 30px;
+}
+
+#rowNombre{
+    padding-top:40px;
+    padding-bottom: 40px;
+    padding-right: 200px;
+    padding-left: 40px;
+    margin-right: 0px;
+}
+
+#rowNombre img{
+    border-radius: 200px;
+    margin-left: 250px;
+}
+
+#rowNombre article{
+    padding-right: 120px;
+    padding-left: 120px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+#rowNombre article h3{
+    padding-bottom: 20px;
+    border-bottom: solid black 1px;
+}
+
+#rowNombre article p{
+    margin-top: 20px;
+}
+
+nav{
+    padding: 15px;
+    margin-top: 20px!important;
+    margin-left: 105px!important;
+    margin-right: 105px!important;
+    border-bottom: solid black 1px;
+}
+.btn{
+    margin:40px;
+    background-color: pink!important;
+    border-radius: 20px!important;
+}
+
+.btn p{
+    padding-top: 7px;
+}
+
+#experiencia, #educacion, #skills{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    border-bottom: solid black 1px;
+}
+
+#experiencia h3, #educacion h3, #skills h3{
+    margin-bottom: 30px;
+}
+
+#experiencia .row, #educacion .row{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left:200px;
+
+}
+
+#experiencia img, #educacion img{
+    border-radius: 20px;
+    margin-right: 70px;
+}
+
+#experiencia article, #educacion article{
+    margin-top: 15px;
+    padding-left: 200px;
+}
+
+#experiencia article h5, #educacion article h5{
+    margin-bottom: 30px;
+    font-style: bold;
+}
+
+#skills .container{
+    margin-bottom: 30px;
+}
